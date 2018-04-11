@@ -11,4 +11,4 @@ The model uses five input files which are also included with the model code;
 4. Column status (active, boundary column, or inactive) - 040_DigiBog_BB_IN_column_status.txt
 5. Base altitude for peat columns - 050_DigiBog_BB_IN_baltitude.txt
 
-*Note these net rainfall and temperature file time series have been randomly generated and are not the same files that were used in the publication.
+*Note these net rainfall and temperature time series files have been randomly generated and are not the same files that were used in the publication. In this version of the model, the mean annual temperature is used for the plant litter productivity function and must be added to the user-defined input file (010_DigiBog_BB_IN_information.txt).
